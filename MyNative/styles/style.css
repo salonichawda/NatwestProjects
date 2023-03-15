@@ -1,0 +1,53 @@
+* {
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div img {
+    width: 350px;
+    height: 250px;
+}
+
+h1,
+h4,
+p {
+    color: white;
+}
+
+div {
+    width: 1200px;
+    height: auto;
+}
+
+td {
+    width: 15vw;
+    height: 5vh;
+    color: white;
+    text-align: left;
+    border: 1px solid white;
+}
+
+input,
+textarea,
+select {
+    width: 15vw;
+    height: 5vh;
+    background-color: white;
+    text-align: left;
+    color: black;
+}
+
+button {
+    width: 15vw;
+    height: 5vh;
+    background-color: rgb(141, 101, 0);
+}
+
+a,nav{
+    height: 6vh;
+    background-color: rgb(141, 101, 0);
+    padding: 0.5vw;
+    color: white;
+}

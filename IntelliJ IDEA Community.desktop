@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=IntelliJ IDEA Community Edition
+Comment=Intelligent Java IDE
+Exec=intellij-idea-community %u
+Icon=intellij-idea-ce
+Terminal=false
+Type=Application
+Categories=Development;IDE;Java;
+Keywords=intellij;idea;community;java;ide
+StartupWMClass=jetbrains-idea-ce
+X-Desktop-File-Install-Version=0.26
+
+Name[C]=IntelliJ IDEA Community
